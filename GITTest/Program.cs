@@ -10,6 +10,8 @@ namespace GITTest
     {
         static void Main(string[] args)
         {
+            string a = "Hi";
+            string b = "";
         }
     }
 }
