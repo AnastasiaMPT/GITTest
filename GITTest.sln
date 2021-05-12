@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITTest", "GITTest\GITTest.csproj", "{F8EBB0A2-C936-41A7-86A6-ABA82B43A68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8EBB0A2-C936-41A7-86A6-ABA82B43A68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EBB0A2-C936-41A7-86A6-ABA82B43A68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EBB0A2-C936-41A7-86A6-ABA82B43A68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EBB0A2-C936-41A7-86A6-ABA82B43A68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC19DE24-E2E2-453C-A017-E0FB05EDF000}
+	EndGlobalSection
+EndGlobal
